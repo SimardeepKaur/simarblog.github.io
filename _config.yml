@@ -40,7 +40,7 @@ email: simardeep.kaur.jeji@gmail.com
 avatar: /home/simardeep/Downloads/Untitled Folder
 
 # You'll want to customize url and baseurl for your own site:
-baseurl: "/jekyll-theme-prologue" # the subpath of your site, e.g. /blog
+#baseurl: "/jekyll-theme-prologue" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 
 # Social settings
